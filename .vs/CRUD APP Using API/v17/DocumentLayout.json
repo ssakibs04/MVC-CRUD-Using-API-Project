@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Asp.Net Core\\CRUD APP Using API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|e:\\asp.net core\\crud app using api\\crud app using api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|solutionrelative:crud app using api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|e:\\asp.net core\\crud app using api\\crud app using api\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|solutionrelative:crud app using api\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|e:\\asp.net core\\crud app using api\\crud app using api\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|solutionrelative:crud app using api\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|e:\\asp.net core\\crud app using api\\crud app using api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|solutionrelative:crud app using api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|e:\\asp.net core\\crud app using api\\crud app using api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DF17A1-E9A2-4984-B25B-54C3EB2027CF}|CRUD APP Using API\\CRUD APP Using API.csproj|solutionrelative:crud app using api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD APP Using API\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "CRUD APP Using API\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:21:44.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD APP Using API\\Program.cs",
+              "ToolTip": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Program.cs",
+              "RelativeToolTip": "CRUD APP Using API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:11:51.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD APP Using API\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CRUD APP Using API\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:10:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUD APP Using API\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUD APP Using API\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:00:09.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CRUD APP Using API\\Models\\Student.cs",
+              "ToolTip": "E:\\Asp.Net Core\\CRUD APP Using API\\CRUD APP Using API\\Models\\Student.cs",
+              "RelativeToolTip": "CRUD APP Using API\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:55:57.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
